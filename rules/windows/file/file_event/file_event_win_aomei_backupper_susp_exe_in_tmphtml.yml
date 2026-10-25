@@ -7,7 +7,7 @@ description: |
     is Backupper.exe. The application stages popup resources here before relocating them
     to html\; a genuine promotional bundle contains no executables, so an .exe written
     to this path indicates a tampered bundle.
-references: 
+references:
     - https://www.manageengine.com/threat-analysis-lab/aomei-backupper-supply-chain-compromise.html
 author: Veeramani
 date: 2026-08-29

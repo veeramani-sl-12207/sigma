@@ -7,7 +7,7 @@ description: |
     intended for rendering assets, not executables; a child process launched from here
     indicates a hijacked upgrade workflow triggered through the AOMEI notification agent
     with no user interaction.
-references: 
+references:
     - https://www.manageengine.com/threat-analysis-lab/aomei-backupper-supply-chain-compromise.html
 author: Veeramani
 date: 2026-06-11
